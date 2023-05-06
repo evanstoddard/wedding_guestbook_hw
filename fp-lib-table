@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Smart Nixie Tube")(type "KiCad")(uri "${KIPRJMOD}/Smart Nixie Tube.pretty")(options "")(descr ""))
+)
